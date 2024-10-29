@@ -1,0 +1,4 @@
+module EztoRustCore {
+    header "header.h"
+    export *
+}
